@@ -11,7 +11,7 @@ public class Hello1 {
 	System.out.println("welcome to Sanfransico California");
 	System.out.println("welcome to jenkins India");
 	System.out.println("welcome to Austrailia");
-	System.out.println("just check");
+	System.out.println("justcheck");
 	}
 
 }
